@@ -1,1 +1,1 @@
-echo "test CI_CD tool jenkins5"
+echo "test CI_CD tool jenkins5.1"
